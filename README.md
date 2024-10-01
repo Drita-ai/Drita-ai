@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alok</h1>
 - 🌱 I’m currently learning **Python and Vuejs**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
